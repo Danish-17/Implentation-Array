@@ -65,7 +65,7 @@ void reverseString(string& str) {
 }
 
 int main() {
-    string str = "Hey! There How are you?";
+    string str = "Hey Man! How are you?";
     cout << "Original String: " << str << endl;
     reverseString(str);
     cout << "Reversed String: " << str << endl;
